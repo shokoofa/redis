@@ -1,5 +1,5 @@
 **Title and Note:**
-   ```markdown
+
    # Deploy Redis with Docker Compose
    > Note: This repo is just for my technical task
 
