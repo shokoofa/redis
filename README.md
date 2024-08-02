@@ -17,4 +17,4 @@ The code used here is available on GitHub repo.
 `https://github.com/shokoofa/redis.git`
 
 ### For deploying redis, just edit the repository address and run the bellow command in the following directory
-docker-compose up -d 
+```docker-compose up -d```
