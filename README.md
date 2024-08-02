@@ -1,10 +1,5 @@
-**Title and Note:**
+**Deploy redis with docker-compose file:**
 
-   # Deploy Redis with Docker Compose
-   > Note: This repo is just for my technical task
-
-
-# Deploy redis with docker-compose file
 ### Explanation:
 >Note: This repo is just for my  Technical task
 
