@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+  redis:
+    image: example.com/redis:latest # You can add your local repository
+    restart: always
+    network_mode: host
+    command: redis-server --save 60 1 --loglevel warning --requirepass password
+    volumes:
+      - /opt/apps/redis//volumes/dаta:/data
+    environment:
+      - REDIS_PORT=6379
+      - REDIS_DATABASES=16
