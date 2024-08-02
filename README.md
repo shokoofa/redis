@@ -10,7 +10,7 @@ You must install and configure the following tools before moving forward
 
 * Linux: ubuntu-2022
 
-* ### code
+ ### code
 
 The code used here is available on GitHub repo.
 
